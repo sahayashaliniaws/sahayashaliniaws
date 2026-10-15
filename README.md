@@ -137,11 +137,6 @@ A personal portfolio website demonstrating frontend development basics, source c
 
 I'm interested in opportunities in **AWS Cloud Engineering, DevOps Engineering, and Cloud Infrastructure** where I can contribute to automation, deployment reliability, and cloud operations while continuing to grow technically.
 
-<p align="center">
-  <a href="(https://portfolio-six-ecru-72.vercel.app/)">🌐 Portfolio</a> •
-</p>
-
----
 
 <p align="center">
   <i>"Automate the repeatable. Monitor the critical. Improve continuously."</i> 🚀
