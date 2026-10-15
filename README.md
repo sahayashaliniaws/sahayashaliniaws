@@ -1,5 +1,5 @@
 # Hi, I'm Sahaya Shalini S 
-### AWS Cloud & DevOps Engineer | Cloud Infrastructure | CI/CD | Infrastructure as Code | Kubernetes | Ansible 
+### AWS Cloud & DevOps Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+Cloud+%26+DevOps+Engineer;Automating+Infrastructure+with+Terraform;Building+CI%2FCD+Pipelines;Learning+Cloud-Native+Technologies" alt="Typing SVG" />
