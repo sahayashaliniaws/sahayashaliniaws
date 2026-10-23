@@ -37,7 +37,25 @@ A hands-on cloud project focused on deploying a Java-based game server with load
 
 🔗 **[View Project on GitHub](https://github.com/sahayashaliniaws/Scalable-Gaming-Server)**
 
-### 2. CI/CD Pipeline Automation
+### 2. E-Commerce Cloud-Native Microservices Application
+
+**Technologies:** Java 17, Spring Boot, REST APIs, AWS, Docker, Kubernetes (Amazon EKS), Jenkins, GitHub, Maven, SonarQube, Terraform
+
+A hands-on cloud-native project focused on developing and deploying a Java-based e-commerce application using microservices architecture, containerization, automated CI/CD pipelines, and Infrastructure as Code (IaC) on AWS.
+
+**Key implementations:**
+- Developed separate User, Product, and Order microservices using Java 17 and Spring Boot.
+- Created REST APIs to support communication between application components.
+- Containerized microservices using Docker for consistent deployment.
+- Configured Jenkins CI/CD pipelines to automate code checkout, Maven builds, testing, Docker image creation, and deployment.
+- Integrated SonarQube for code quality analysis and quality gate validation.
+- Deployed containerized applications to Kubernetes (Amazon EKS) using Deployments, Pods, and Services.
+- Used Terraform to provision reusable AWS infrastructure, including VPCs, subnets, and security groups.
+- Used GitHub for source code management and version control.
+  
+🔗 **[View Project on GitHub](https://github.com/sahayashaliniaws)**
+
+### 3. CI/CD Pipeline Automation
 
 **Technologies:** Jenkins, Git, GitHub, Maven, SonarQube
 
@@ -50,9 +68,9 @@ A hands-on DevOps project focused on automating application build, code quality 
 - Integrated SonarQube for static code quality analysis.
 - Explored quality gates to help enforce code quality standards.
 
-🔗 **[View Projects on GitHub](https://github.com/sahayashaliniaws/CI_CD_Automation)**
+🔗 **[View Project on GitHub](https://github.com/sahayashaliniaws/CI_CD_Automation)**
 
-### 3. Infrastructure as Code with Terraform
+### 4. Infrastructure as Code with Terraform
 
 **Technologies:** Terraform, AWS EC2, VPC, IAM, Lambda, DynamoDB
 
@@ -65,9 +83,9 @@ A practical Infrastructure as Code project focused on provisioning and managing 
 - Explored modular infrastructure configuration.
 - Practiced repeatable infrastructure deployment and cleanup.
 
-🔗 **[Explore My GitHub Repositories](https://github.com/sahayashaliniaws)**
+🔗 **[View Project on GitHub](https://github.com/sahayashaliniaws)**
 
-### 4. Portfolio Website Deployment
+### 5. Portfolio Website Deployment
 
 **Technologies:** React, Vite, TypeScript, GitHub, Vercel
 
