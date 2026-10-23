@@ -50,7 +50,7 @@ A hands-on DevOps project focused on automating application build, code quality 
 - Integrated SonarQube for static code quality analysis.
 - Explored quality gates to help enforce code quality standards.
 
-🔗 **[View Projects on GitHub](https://github.com/sahayashaliniaws)**
+🔗 **[View Projects on GitHub](https://github.com/sahayashaliniaws/CI_CD_Automation)**
 
 ### 3. Infrastructure as Code with Terraform
 
